@@ -1,0 +1,1 @@
+{"comment":"","fields":{"modelMapper":{"comment":"","tags":{}},"customerService":{"comment":"","tags":{}}},"methods":{"convertToCustomerDto":{"comment":"","parameters":{},"tags":{}},"findAllCustomers":{"comment":"Retrieves the list of customer into the application","parameters":{},"tags":{"return":"the list of customer into the application"}}}}

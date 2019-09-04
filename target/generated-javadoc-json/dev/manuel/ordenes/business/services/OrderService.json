@@ -1,0 +1,1 @@
+{"comment":"","fields":{"customerRepository":{"comment":"","tags":{}},"orderRepository":{"comment":"","tags":{}},"detailRepository":{"comment":"","tags":{}}},"methods":{"registerNewOrder":{"comment":"","parameters":{},"tags":{}},"findOrderByCustomer":{"comment":"","parameters":{},"tags":{}}}}
